@@ -1,0 +1,5 @@
+\babel@toc {russian}{}\relax 
+\beamer@sectionintoc {1}{История}{3}{0}{1}
+\beamer@sectionintoc {2}{Малые каталоги}{9}{0}{2}
+\beamer@sectionintoc {3}{Каталог Harris}{16}{0}{3}
+\beamer@sectionintoc {4}{Список литературы}{16}{0}{4}
