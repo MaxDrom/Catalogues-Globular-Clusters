@@ -8,6 +8,6 @@ $(NAME): $(TEXNAME) bibliography.bib
 	bibtex Catalogue.aux
 	pdflatex -interaction=nonstopmode $(TEXNAME) > main.mk1.log
 	pdflatex -interaction=nonstopmode $(TEXNAME) > main.mk2.log
-	mv $(NAME) $(TMPNAME)
-	gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.6 -dPDFSETTINGS=/ebook -dNOPAUSE -dBATCH -sOutputFile=$(NAME) $(TMPNAME)
-	rm $(TMPNAME)
+	#mv $(NAME) $(TMPNAME)
+	#gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.6 -dPDFSETTINGS=/ebook -dNOPAUSE -dBATCH -sOutputFile=$(NAME) $(TMPNAME)
+	#rm $(TMPNAME)

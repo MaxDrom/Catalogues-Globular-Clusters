@@ -225,21 +225,16 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 [4]
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
-[5 <./pictures/Gersh.jpg>]
+[5 <./pictures/Messie.jpg>]
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
-[6]
-
-LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 91.
-
-
+[6 <./pictures/Gersh.jpg>]
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
 [7]
 
 LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 98.
+             The label is:  on input line 97.
 
 
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
@@ -247,26 +242,26 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 [8]
 
 LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 107.
+             The label is:  on input line 104.
 
 
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
 [9]
-Overfull \hbox (164.86588pt too wide) has occurred while \output is active
- [][]  \T2A/cmss/m/n/6 ([])  
-[10 <./pictures/PGC.jpg>]
 
 LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 119.
+             The label is:  on input line 113.
 
 
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
-[11]
+[10]
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+[11 <./pictures/PGC.jpg>]
 
 LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 127.
+             The label is:  on input line 125.
 
 
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
@@ -274,23 +269,31 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 [12]
 
 LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 135.
+             The label is:  on input line 133.
 
 
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
 [13]
-Overfull \hbox (164.86588pt too wide) has occurred while \output is active
- [][]  \T2A/cmss/m/n/6 ([])  
-[14 <./pictures/Terzan.jpg>]
 
 LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 151.
+             The label is:  on input line 141.
 
 
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
-[15 <./pictures/Djorg.jpg>] (./Catalogue.bbl
+[14]
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+[15 <./pictures/Terzan.jpg>]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 157.
+
+
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+[16 <./pictures/Djorg.jpg>] (./Catalogue.bbl
 
 Package hyperref Warning: Glyph not defined in PU encoding,
 (hyperref)                removing `\CYRS' on input line 1.
@@ -358,10 +361,10 @@ Package hyperref Warning: Glyph not defined in PU encoding,
 (/usr/share/texmf-dist/tex/latex/cyrillic/t2acmtt.fd))
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
-[16]
+[17]
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
-[17] (./Catalogue.aux) )
+[18] (./Catalogue.aux) )
 (see the transcript file for additional information)</usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
@@ -372,5 +375,5 @@ dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf-dist/fonts/type
 er/sfss1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb
 ></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/te
 xmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on Catalogue.pdf (17 pages, 822322 bytes).
+Output written on Catalogue.pdf (18 pages, 1301447 bytes).
 Transcript written on Catalogue.log.
