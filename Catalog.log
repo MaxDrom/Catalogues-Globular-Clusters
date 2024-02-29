@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.25)  28 FEB 2024 22:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.25)  29 FEB 2024 05:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Catalogue.tex
-(./Catalogue.tex
+**Catalog.tex
+(./Catalog.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (/usr/share/texmf-dist/tex/latex/beamer/beamer.cls
@@ -950,14 +950,13 @@ Package: bibentry 2007/10/30 1.5 (PWD)
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count339
 \l__pdf_internal_box=\box79
-)
-(./Catalogue.aux
+) (./Catalog.aux
 LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
 19.
- (/usr/share/texmf-dist/tex/latex/cyrillic/t2acmss.fd
+(/usr/share/texmf-dist/tex/latex/cyrillic/t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-\openout1 = `Catalogue.aux'.
+\openout1 = `Catalog.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
@@ -1043,10 +1042,9 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package hyperref Info: Link coloring OFF on input line 18.
-
-(./Catalogue.out) (./Catalogue.out)
+ (./Catalog.out) (./Catalog.out)
 \@outlinefile=\write5
-\openout5 = `Catalogue.out'.
+\openout5 = `Catalog.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 18.
@@ -1126,7 +1124,7 @@ sh.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 LaTeX Info: Redefining \th on input line 18.
- (./Catalogue.nav)
+ (./Catalog.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 20.
@@ -1139,7 +1137,7 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
-/enc/dvips/cm-super/cm-super-t2a.enc}] (./Catalogue.toc)
+/enc/dvips/cm-super/cm-super-t2a.enc}] (./Catalog.toc)
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
  []
@@ -1169,7 +1167,7 @@ ut line 49.
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-<pictures/m22.jpg, id=115, 401.5pt x 381.425pt>
+<pictures/m22.jpg, id=116, 401.5pt x 381.425pt>
 File: pictures/m22.jpg Graphic file (type jpg)
 <use pictures/m22.jpg>
 Package pdftex.def Info: pictures/m22.jpg  used on input line 49.
@@ -1194,7 +1192,7 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 [4
 
 ]
-<pictures/Messie.jpg, id=173, 1606.0pt x 723.70375pt>
+<pictures/Messie.jpg, id=174, 1606.0pt x 723.70375pt>
 File: pictures/Messie.jpg Graphic file (type jpg)
 <use pictures/Messie.jpg>
 Package pdftex.def Info: pictures/Messie.jpg  used on input line 64.
@@ -1207,7 +1205,7 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 [5
 
  <./pictures/Messie.jpg>]
-<pictures/Gersh.jpg, id=200, 228.1323pt x 289.08pt>
+<pictures/Gersh.jpg, id=201, 228.1323pt x 289.08pt>
 File: pictures/Gersh.jpg Graphic file (type jpg)
 <use pictures/Gersh.jpg>
 Package pdftex.def Info: pictures/Gersh.jpg  used on input line 82.
@@ -1227,10 +1225,11 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 [7
 
 ]
-
-LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 97.
-
+<pictures/NGC.jpg, id=256, 895.345pt x 398.48875pt>
+File: pictures/NGC.jpg Graphic file (type jpg)
+<use pictures/NGC.jpg>
+Package pdftex.def Info: pictures/NGC.jpg  used on input line 95.
+(pdftex.def)             Requested size: 308.06367pt x 137.10785pt.
 
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
@@ -1238,12 +1237,7 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 
 [8
 
-]
-
-LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 104.
-
-
+ <./pictures/NGC.jpg>]
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
  []
@@ -1251,11 +1245,6 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 [9
 
 ]
-
-LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 113.
-
-
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
  []
@@ -1263,11 +1252,10 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 [10
 
 ]
-<pictures/PGC.jpg, id=342, 882.29625pt x 375.4025pt>
-File: pictures/PGC.jpg Graphic file (type jpg)
-<use pictures/PGC.jpg>
-Package pdftex.def Info: pictures/PGC.jpg  used on input line 119.
-(pdftex.def)             Requested size: 308.06367pt x 131.07779pt.
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 118.
+
 
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
@@ -1275,10 +1263,10 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 
 [11
 
- <./pictures/PGC.jpg>]
+]
 
 LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 125.
+             The label is:  on input line 126.
 
 
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
@@ -1288,10 +1276,11 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 [12
 
 ]
-
-LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 133.
-
+<pictures/Mellot.jpg, id=396, 889.3225pt x 386.44376pt>
+File: pictures/Mellot.jpg Graphic file (type jpg)
+<use pictures/Mellot.jpg>
+Package pdftex.def Info: pictures/Mellot.jpg  used on input line 133.
+(pdftex.def)             Requested size: 308.06367pt x 133.86572pt.
 
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
@@ -1299,10 +1288,15 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 
 [13
 
-]
+ <./pictures/Mellot.jpg>]
+<pictures/Shapley.jpg, id=425, 702.625pt x 656.4525pt>
+File: pictures/Shapley.jpg Graphic file (type jpg)
+<use pictures/Shapley.jpg>
+Package pdftex.def Info: pictures/Shapley.jpg  used on input line 139.
+(pdftex.def)             Requested size: 239.60567pt x 223.86201pt.
 
-LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 141.
+Overfull \vbox (3.09808pt too high) detected at line 139
+ []
 
 
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
@@ -1311,12 +1305,11 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 
 [14
 
-]
-<pictures/Terzan.jpg, id=454, 883.3pt x 341.275pt>
-File: pictures/Terzan.jpg Graphic file (type jpg)
-<use pictures/Terzan.jpg>
-Package pdftex.def Info: pictures/Terzan.jpg  used on input line 147.
-(pdftex.def)             Requested size: 308.06367pt x 119.02623pt.
+ <./pictures/Shapley.jpg>]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 147.
+
 
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
@@ -1324,16 +1317,12 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 
 [15
 
- <./pictures/Terzan.jpg>]
-
-LaTeX Warning: The counter will not be printed.
-             The label is:  on input line 157.
-
-<pictures/Djorg.jpg, id=481, 422.57875pt x 230.8625pt>
-File: pictures/Djorg.jpg Graphic file (type jpg)
-<use pictures/Djorg.jpg>
-Package pdftex.def Info: pictures/Djorg.jpg  used on input line 157.
-(pdftex.def)             Requested size: 239.60567pt x 130.90254pt.
+]
+<pictures/PGC.jpg, id=479, 882.29625pt x 375.4025pt>
+File: pictures/PGC.jpg Graphic file (type jpg)
+<use pictures/PGC.jpg>
+Package pdftex.def Info: pictures/PGC.jpg  used on input line 153.
+(pdftex.def)             Requested size: 308.06367pt x 131.07779pt.
 
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
@@ -1341,7 +1330,177 @@ Overfull \hbox (164.86588pt too wide) has occurred while \output is active
 
 [16
 
- <./pictures/Djorg.jpg>] (./Catalogue.bbl
+ <./pictures/PGC.jpg>]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 159.
+
+
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[17
+
+]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 167.
+
+
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[18
+
+]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 175.
+
+
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[19
+
+]
+<pictures/Terzan.jpg, id=591, 883.3pt x 341.275pt>
+File: pictures/Terzan.jpg Graphic file (type jpg)
+<use pictures/Terzan.jpg>
+Package pdftex.def Info: pictures/Terzan.jpg  used on input line 181.
+(pdftex.def)             Requested size: 308.06367pt x 119.02623pt.
+
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[20
+
+ <./pictures/Terzan.jpg>]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 191.
+
+<pictures/Djorg.jpg, id=618, 422.57875pt x 230.8625pt>
+File: pictures/Djorg.jpg Graphic file (type jpg)
+<use pictures/Djorg.jpg>
+Package pdftex.def Info: pictures/Djorg.jpg  used on input line 191.
+(pdftex.def)             Requested size: 239.60567pt x 130.90254pt.
+
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[21
+
+ <./pictures/Djorg.jpg>]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 200.
+
+<pictures/Kron.jpg, id=644, 753.81625pt x 751.80875pt>
+File: pictures/Kron.jpg Graphic file (type jpg)
+<use pictures/Kron.jpg>
+Package pdftex.def Info: pictures/Kron.jpg  used on input line 200.
+(pdftex.def)             Requested size: 205.37926pt x 204.82654pt.
+
+Overfull \vbox (0.79124pt too high) detected at line 200
+ []
+
+
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[22
+
+ <./pictures/Kron.jpg>]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 209.
+
+
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[23
+
+]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 218.
+
+<pictures/HarrisI.jpg, id=702, 903.375pt x 500.87125pt>
+File: pictures/HarrisI.jpg Graphic file (type jpg)
+<use pictures/HarrisI.jpg>
+Package pdftex.def Info: pictures/HarrisI.jpg  used on input line 218.
+(pdftex.def)             Requested size: 273.83728pt x 151.82927pt.
+
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[24
+
+ <./pictures/HarrisI.jpg>]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 227.
+
+<pictures/HarrisII.jpg, id=729, 857.2025pt x 357.335pt>
+File: pictures/HarrisII.jpg Graphic file (type jpg)
+<use pictures/HarrisII.jpg>
+Package pdftex.def Info: pictures/HarrisII.jpg  used on input line 227.
+(pdftex.def)             Requested size: 273.83728pt x 114.15324pt.
+
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[25
+
+ <./pictures/HarrisII.jpg>]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 236.
+
+<pictures/HarrisIII.jpg, id=757, 909.3975pt x 445.665pt>
+File: pictures/HarrisIII.jpg Graphic file (type jpg)
+<use pictures/HarrisIII.jpg>
+Package pdftex.def Info: pictures/HarrisIII.jpg  used on input line 236.
+(pdftex.def)             Requested size: 256.31717pt x 125.61497pt.
+
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[26
+
+ <./pictures/HarrisIII.jpg>]
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+243.
+
+(/usr/share/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[27
+
+]
+Overfull \hbox (164.86588pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[28
+
+] (./Catalog.bbl
 
 Package hyperref Warning: Glyph not defined in PU encoding,
 (hyperref)                removing `\CYRS' on input line 1.
@@ -1406,47 +1565,43 @@ Package hyperref Warning: Glyph not defined in PU encoding,
 Package hyperref Warning: Glyph not defined in PU encoding,
 (hyperref)                removing `\cyrery' on input line 1.
 
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-7.
-(/usr/share/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
+)
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
  []
 
-[17
+[29
 
 ]
 Overfull \hbox (164.86588pt too wide) has occurred while \output is active
  [][]  \T2A/cmss/m/n/6 ([])  
  []
 
-[18
+[30
 
 
 ]
 \tf@nav=\write6
-\openout6 = `Catalogue.nav'.
+\openout6 = `Catalog.nav'.
 
 \tf@toc=\write7
-\openout7 = `Catalogue.toc'.
+\openout7 = `Catalog.toc'.
 
 \tf@snm=\write8
-\openout8 = `Catalogue.snm'.
+\openout8 = `Catalog.snm'.
 
- (./Catalogue.aux)
-Package rerunfilecheck Info: File `Catalogue.out' has not changed.
+ (./Catalog.aux)
+Package rerunfilecheck Info: File `Catalog.out' has not changed.
 (rerunfilecheck)             Checksum: AE30951E8188018EDC53139A600C73E1;621.
  ) 
 Here is how much of TeX's memory you used:
- 24276 strings out of 477459
- 464282 string characters out of 5832156
- 1865388 words of memory out of 5000000
- 43915 multiletter control sequences out of 15000+600000
+ 24391 strings out of 477459
+ 466115 string characters out of 5832156
+ 1864388 words of memory out of 5000000
+ 43997 multiletter control sequences out of 15000+600000
  524543 words of font info for 62 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 128i,15n,122p,497b,936s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,122p,495b,936s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texmf-dist/fonts/type1/publ
@@ -1457,10 +1612,10 @@ ist/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf-dist/fonts/type1
 /public/cm-super/sfss1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-supe
 r/sfss1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
 
-Output written on Catalogue.pdf (18 pages, 1301447 bytes).
+Output written on Catalog.pdf (30 pages, 2580594 bytes).
 PDF statistics:
- 623 PDF objects out of 1000 (max. 8388607)
- 554 compressed objects within 6 object streams
- 48 named destinations out of 1000 (max. 500000)
- 161 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 963 PDF objects out of 1000 (max. 8388607)
+ 872 compressed objects within 9 object streams
+ 74 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 

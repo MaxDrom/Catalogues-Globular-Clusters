@@ -12,6 +12,17 @@ De~Chéseaux.
 \newblock \url{http://www.messier.seds.org/xtra/similar/deches_o.html}
   Translation to english by HF.
 
+\bibitem{HarrisDat}
+W.~E. Harris.
+\newblock Catalog of parameters for milky way globular clusters, 1996.
+\newblock \url{https://physics.mcmaster.ca/~harris/mwgc.dat} (2010 edition).
+
+\bibitem{Harris}
+W.~E. Harris.
+\newblock Catalog of parameters for milky way globular clusters: The
+  bibliography, 1996.
+\newblock \url{https://physics.mcmaster.ca/~harris/mwgc.ref} (2010 edition).
+
 \bibitem{Hogg1947}
 Helen B.~Sawyer Hogg.
 \newblock {\em A Bibliography of Individual Globular Clusters}.
